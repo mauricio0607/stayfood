@@ -1,0 +1,33 @@
+page-create-account {
+    .registerBackground {
+        background-image: url('../assets/imgs/bg-register.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+
+    .customInputsPadding {
+        padding: 30px
+    }
+
+    //Input custom color and line 
+    .item-ios.item-block .item-inner {
+        border-bottom: 1.5px solid $eggshell
+    }
+    .item-md.item-block .item-inner {
+        border-bottom: 1.5px solid $eggshell
+    }
+
+    //Login CTA
+    .registerCta {
+        width: 100%;
+        padding: 5px 0px;
+        text-align: center;
+        background-color: $green;
+        color: $eggshell;
+        border-radius: 100px;
+        border: 1.5px solid $eggshell;
+    }
+    .btnRegister {
+        height: 20px
+    }
+}

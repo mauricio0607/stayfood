@@ -1,0 +1,24 @@
+$font-path: "../assets/fonts";
+$app-direction: ltr;
+
+@import "ionic.globals";
+
+$colors: (
+  primary:    #B90E42,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222
+);
+
+//Pallet 
+$red: #B90E42;
+$eggshell: #F7F5DD;
+$green: #1EBEB8;
+$black: #363636;
+$gray: #C6C6C6;
+
+@import "ionic.theme.default";
+@import "ionic.ionicons";
+@import "roboto";
+@import "noto-sans";

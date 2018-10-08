@@ -1,0 +1,30 @@
+page-login {
+    .loginBackground {
+        background-image: url('../assets/imgs/bg-login.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+
+    .customInputsPadding {
+        padding: 30px
+    }
+
+    //Input custom color and line 
+    .item-ios.item-block .item-inner, .item-md.item-block .item-inner {
+        border-bottom: 1.5px solid $eggshell
+    }
+
+    //Login CTA
+    .loginCta {
+        width: 100%;
+        padding: 5px 0px;
+        text-align: center;
+        background-color: $red;
+        color: $eggshell;
+        border-radius: 100px;
+        border: 1.5px solid $eggshell;
+    }
+    .btnLogin {
+        height: 20px
+    }
+}

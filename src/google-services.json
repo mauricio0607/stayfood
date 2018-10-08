@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "382118263151",
+    "firebase_url": "https://minha-entrega-3f237.firebaseio.com",
+    "project_id": "minha-entrega-3f237",
+    "storage_bucket": "minha-entrega-3f237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382118263151:android:377a072bb8ab43d4",
+        "android_client_info": {
+          "package_name": "stayfood.trindade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382118263151-fa4ksc2444qgmvv2kvca7jou7m8ul0l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtfWs2m6UvuhgaznxWEH8SxNcSaq_a1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
